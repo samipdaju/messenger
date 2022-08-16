@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "164561201049",
+    "project_id": "elated-chariot-338211",
+    "storage_bucket": "elated-chariot-338211.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164561201049:android:38cb8c77b99fd5b3f9d508",
+        "android_client_info": {
+          "package_name": "com.example.untitled6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164561201049-6tn45vd3htdbqc1nbmul9c1kf71um8d2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5Td_4m516WMyh73GcW8LFn1Bt0_HRCR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164561201049-6tn45vd3htdbqc1nbmul9c1kf71um8d2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
